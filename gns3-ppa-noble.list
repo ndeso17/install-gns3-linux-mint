@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/keyrings/gns3-ppa-noble.gpg] https://ppa.launchpadcontent.net/gns3/ppa/ubuntu noble main
